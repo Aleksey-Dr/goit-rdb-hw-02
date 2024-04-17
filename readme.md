@@ -44,7 +44,7 @@ ___
 
 Початкова таблиця
 
-![https://s3.eu-north-1.amazonaws.com/lms.goit.files/8da9c298-d31c-4ed6-8501-655d798eeb98table1.jpg](table.png)
+![https://s3.eu-north-1.amazonaws.com/lms.goit.files/8da9c298-d31c-4ed6-8501-655d798eeb98table1.jpg](https://s3.eu-north-1.amazonaws.com/lms.goit.files/8da9c298-d31c-4ed6-8501-655d798eeb98table1.jpg)](table.png)
 
 ### Критерії прийняття
 
@@ -67,4 +67,4 @@ ___
 >[!TIP]
 >Результат має бути у вигляді скриншота розгорнутої схеми у Workbench.
 
-![https://s3.eu-north-1.amazonaws.com/lms.goit.files/d1b164af-dea0-47d9-8f35-74a9367520d31.png](image.png)
+![https://s3.eu-north-1.amazonaws.com/lms.goit.files/d1b164af-dea0-47d9-8f35-74a9367520d31.png](https://s3.eu-north-1.amazonaws.com/lms.goit.files/d1b164af-dea0-47d9-8f35-74a9367520d31.png)
